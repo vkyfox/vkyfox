@@ -1,11 +1,4 @@
-👋 Hi, I’m @vkyfox
-
-👀 I’m interested in data science
-
-🌱 I’m currently learning python
-
-💞️ I’m looking to collaborate on ffxiv related stuff
-
+Hi, I’m @vkyfox
 📫 Reach me via mail if you want to.
 
 Have a nice day!
